@@ -6,7 +6,7 @@
 
 ## 2.实验流程图
 
-![网络采样流程图](\img\网络采样流程图.png)
+![网络采样流程图](https://github.com/haotopia/WebDownloader/blob/master/img/%E7%BD%91%E7%BB%9C%E9%87%87%E6%A0%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 ## 3.工具介绍
 
@@ -65,7 +65,7 @@ def __init__(self, url, deep, file_path):
 
 得到一个BeautifulSoup对象后，一般通过BeautifulSoup类的基本元素来提取html中的内容
 
-![bs](img\bs.png)
+![bs](https://github.com/haotopia/WebDownloader/blob/master/img/bs.png)
 
 我们常用通过find_all()方法来查找标签元素：
 
